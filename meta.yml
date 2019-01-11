@@ -1,0 +1,21 @@
+---
+name: Ciclos
+locale: es
+type: learning
+beta: false
+language: javascript
+id_format: "%05d"
+order:
+- 12
+- 1
+- 7
+- 5
+- 8
+- 9
+- 2
+- 3
+- 4
+- 10
+- 6
+- 11
+private: false
